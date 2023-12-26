@@ -6,9 +6,6 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
-
 -   <a href="https://space.bilibili.com/349996129"><code><img height="20" width="50" src="./images/bilibili.png"></code></a>：bilibili UP主
 
 ### **技术栈:**
