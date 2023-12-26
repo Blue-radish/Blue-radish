@@ -26,7 +26,7 @@
 
 ### 开源项目
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Blue-radish&repo=machi_v1)](github.com//Blue-radish//machi_v1)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=Blue-radish&repo=machi_v1)](github.com//Blue-radish//machi_v1//main)
 <br><br><br>
 
 ### Github 活跃度
