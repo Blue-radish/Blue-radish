@@ -11,7 +11,7 @@
 ### **技术栈:**
 
 <a href="https://www.python.org"><code><img height="20" src="./images/Python.png"></code></a>
-<a href="https://isocpp.org"><code><img height="20" src="./images/C++语言.png"></code></a>
+<a href="https://isocpp.org"><code><img height="20" src="./images/c++语言.png"></code></a>
 <a href="https://www.pytorch.org"><code><img height="20" src="./images/pytorch.png"></code></a>
 <a href="https://ubuntu.com"><code><img height="20" src="./images/linux.png"></code></a>
 
