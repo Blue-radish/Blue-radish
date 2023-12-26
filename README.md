@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:Blue-radish?theme=rule34">
 
-## AI工程师—青萝卜菜
+## AI爱好者—青萝卜菜
 
 热爱AI、热爱技术。喜欢参与一些开源项目的讨论。
 
