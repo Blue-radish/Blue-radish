@@ -17,8 +17,5 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Blue-radish&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Blue-radish's github stats](https://github-readme-stats.vercel.app/api?username=Blue-radish&show_icons=true&theme=vue)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-radish&langs_count=6)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Blue-radish&layout=compact&langs_count=6)
